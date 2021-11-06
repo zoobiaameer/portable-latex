@@ -9,7 +9,7 @@ This works perfectly well on Windows 64 Platforms (tested on Windows 11, Windows
 - For Starting you just need to download latest Asset (zip or tar.gz) from [Releases Page](https://github.com/zoobiaameer/portable-latex/releases)
 - Place the Downloaded file to a suitable place (better it be on root of your drive)
 - Decompress (unzip) the downloaded folder and navigate in LaTeX-Portable
-- Just double click miktex-portable.cmd file and miktex will run to add it to your path
+- Just double click `miktex-portable.cmd` file and miktex will run to add it to your path
 - You will get a icon for MikTex Config in your taskbar, you can update your packages if you want.
 - Next a prompt saying "Press any key to continue . . ." you can press any of the keyboard keys on your keyboard and it will run the TexMaker enviroment
 - Create a new document and start using LaTeX in the TeXWorks from the taskbar menu.
