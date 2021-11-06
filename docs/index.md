@@ -6,7 +6,7 @@ This works perfectly well on Windows 64 Platforms (tested on Windows 11, Windows
 
 ### Instructions
 
-- For Starting you just need to download this repository
+- For Starting you just need to download latest Asset (zip or tar.gz) from [Releases Page](https://github.com/zoobiaameer/portable-latex/releases)
 - Place the Downloaded file to a suitable place (better it be on root of your drive)
 - Decompress (unzip) the downloaded folder and navigate in LaTeX-Portable
 - Just double click _start-LaTeX.cmd file and miktex will run to add it to your path
