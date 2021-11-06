@@ -1,1 +1,4 @@
 theme: jekyll-theme-modernist
+github:
+  zip_url: https://github.com/zoobiaameer/portable-latex/archive/refs/tags/v1.0.0.zip
+  another_url: https://github.com/zoobiaameer/portable-latex/archive/refs/tags/v1.0.0.tar.gz
