@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to portable-latex for Windows based systems
 
-You can use the [editor on GitHub](https://github.com/zoobiaameer/portable-latex/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is a repository for students to start using LaTeX with portable editions of MikTex and TexMaker
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This works perfectly well on Windows 64 Platforms (tested on Windows 11, Windows 10 and Windows 8.X)
 
-### Markdown
+### Instructions
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- For Starting you just need to download this repository
+- Place the Downloaded file to a suitable place (better it be on root of your drive)
+- Decompress (unzip) the downloaded folder and navigate in LaTeX-Portable
+- Just double click _start-LaTeX.cmd file and miktex will run to add it to your path
+- You will get a icon for MikTex Config in your taskbar, you can update your packages if you want.
+- Next a prompt saying "Press any key to continue . . ." you can press any of the keyboard keys on your keyboard and it will run the TexMaker enviroment
+- Create a new document and start using LaTeX.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zoobiaameer/portable-latex/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Any queries and comments may be posted to the GitHub Repository so we can help find a solution togather.
+Go Here for [reporting issues](https://github.com/zoobiaameer/portable-latex/issues) or [contact us](https://zoobia.khattak.info/) and we’ll help you sort it out.
